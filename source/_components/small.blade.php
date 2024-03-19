@@ -1,0 +1,1 @@
+<p {!! $attributes->merge(['class' => 'prose prose-base text-zinc-600 poppins-regular tracking-wide min-w-full']) !!}>{{ $slot }}</p>

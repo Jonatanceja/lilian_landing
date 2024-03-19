@@ -1,0 +1,1 @@
+<h1 {!! $attributes->merge(['class' => 'text-5xl md:text-6xl tracking-wide text-zinc-800']) !!}>{{ $slot }}</h1>
